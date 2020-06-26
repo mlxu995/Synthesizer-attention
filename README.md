@@ -1,2 +1,2 @@
 # Synthesizer-attention
-Dense Synthesizer and Random Synthesizer
+A Pytorch implementation of Dense Synthesizer attention and Random Synthesizer attention.
